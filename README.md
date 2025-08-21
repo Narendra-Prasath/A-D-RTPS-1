@@ -1,2 +1,2 @@
-# Data-structure-in-C-
+# Data-structure-in-C++
 Programs of Data structure in C++
